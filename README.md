@@ -1,6 +1,8 @@
-**Personal Portfolio Website Tour Guide**
-**Shepherd.js Integration
-**
+                                                                                          **Personal Portfolio Website Tour Guide**
+
+
+**Shepherd.js Integration**
+
 Shepherd.js is utilized to orchestrate the guided tour within your React-based portfolio website. The integration involves configuring the tour steps to highlight and describe various sections of your website.
 
 Getting Started: To integrate Shepherd.js into your portfolio website for creating a guided tour, follow these steps:
